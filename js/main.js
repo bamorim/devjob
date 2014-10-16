@@ -24,8 +24,12 @@ $(function(){
       "|_| \\_\\___||___/ .__/ \\___/|_| |_|\\__,_|\\___/_/   \\_\\_|",
       "               |_|                                     ",
       "",
-      "Olá, agradeço seu interesse. Abaixo você tem um console javascript.",
-      "Explore [[b;#44D544;]JobApplication.help()] para começar a aplicar! :D",
+      "Olá, ficamos muito felizes com o seu interesse em trabalhar com a gente!",
+      "Queremos transformar o aprendizado de um aluno em uma experiência incrível",
+      "por toda a vida dele. Claro que para isso precisamos do melhor time possível!",
+      "",
+      "Aqui você tem um console javascript.",
+      "Explore [[b;#44D544;]JobApplication.help()] para começar a aplicar para a vaga! :D",
     ].join("\n")
   });
 });
