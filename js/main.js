@@ -23,6 +23,7 @@ $(function(){
       "|  _ <  __/\\__ \\ |_) | (_) | | | | (_| |  __// ___ \\| |",
       "|_| \\_\\___||___/ .__/ \\___/|_| |_|\\__,_|\\___/_/   \\_\\_|",
       "               |_|                                     ",
+      "http://www.respondeai.com.br/",
       "",
       "Olá, ficamos muito felizes com o seu interesse em trabalhar com a gente!",
       "Queremos transformar o aprendizado de um aluno em uma experiência incrível",
